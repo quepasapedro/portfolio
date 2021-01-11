@@ -10,3 +10,13 @@ This repo serves as a technical portfolio for Peter King. If you've found yourse
 Curious what you'll find in this repo? Here's what you need to know!
 
 _(More to come soon!)_
+
+### Python
+* `csv_to_redshift.py`
+* `plot_daily_metrics`
+* `select_random_experiment_users`
+
+### SQL
+* `churn.sql`
+* `experiment_selection_query.sql`
+* `onboarding_metric_alert_code.sql`
